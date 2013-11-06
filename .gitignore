@@ -1,5 +1,8 @@
 *.py[cod]
 
+# PNG for graph representation
+*.png
+
 # C extensions
 *.so
 
